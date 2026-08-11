@@ -1,0 +1,13 @@
+   body{
+         background-color: #240f22;
+         color: #ffffff;
+      }
+      *{
+        font-family: "helvetica Neue", helvetica, Arial, Sans-serif;
+        font-stretch: condensed;
+        font-weight: 700;
+        font-size: 20px;
+        }
+      a{
+        text-decoration: none;
+      }
